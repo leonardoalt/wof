@@ -1,0 +1,52 @@
+aroundthehouse Around The House
+beforeandafter Before And After
+booktitle Book Title
+character Character
+classicmovie Classic Movie
+classictv Classic Tv
+collegelife College Life
+event Event
+family Family
+fictionalcharacter Fictional Character
+fictionalplace Fictional Place
+foodanddrink Food And Drink
+funandgames Fun And Games
+headline Headline
+husbandandwife Husband And Wife
+inthekitchen In The Kitchen
+landmark Landmark
+livingthing Living Thing
+megaword Megaword
+moviequotes Movie Quotes
+movietitle Movie Title
+occupation Occupation
+onthemap On The Map
+people People
+person Person
+phrase Phrase
+place Place
+propername Proper Name
+quotation Quotation
+rhymetime Rhyme Time
+rockon Rock On
+sameletter Same Letter
+samename Same Name
+showbiz Show Biz
+slogan Slogan
+songartist Song Artist
+songlyrics Song Lyrics
+songtitle Song Title
+starrole STAR & ROLE
+starandrole Star And Role
+the50s The 50s
+the60s The 60s
+the70s The 70s
+the80s The 80s
+the90s The 90s
+thing Thing
+title Title
+titleauthor Titl
+tvshowtitle Tv Show Title
+whatareyoudoing What Are You Doing
+whatareyouwearing What Are You Wearing
+wherearewegoing Where Are We Going
