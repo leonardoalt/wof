@@ -1,0 +1,7 @@
+syntax = "proto2";
+
+package wof;
+
+message PlayerOrder {
+	repeated string id = 1;
+}
